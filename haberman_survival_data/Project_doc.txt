@@ -1,0 +1,17 @@
+Final Project Template
+
+Introduction
+
+In this section, you should give an introduction to the topic related to your chosen data set. Describe the topic and explain why it is important to analyze and understand the results. You should provide enough information on the topic in this section so that someone who has no knowledge of the topic can understand what you are doing and why it is important.
+Research Question & Hypothesis
+
+In this section, you should present the question you are trying to answer with your analysis along with a prediction of what you think the results will be. Remember that your results will either support or not support your hypothesis. Do not be concerned if your results do not support your hypothesis as this leaves room for you to discuss in the conclusion why you think the results supported or did not support your hypothesis.
+Experimental Design
+
+Here, you should explain what type of analysis you will use and why it is the appropriate type of analysis. In the course, you learned about a number of ways to analyze data.  You learned about z-tests, t-tests, and how to run an analysis of variance. You also learned about performing regression and how to perform chi-squared tests. Choose one of these methods as your main type of analysis and provide detailed reasoning for this choice.
+Results
+
+This section should include all of the results from your analysis. Provide all the information from your analysis even if it does not support your hypothesis. You should also provide screenshots/images of your data. You can use whatever types of visualizations that best represent the data (i.e. graphs, bar charts, histograms, etc).  
+Conclusion
+
+Here, you should discuss whether or not the results from your data supported or did not support your hypothesis. If the results did not support your hypothesis, discuss why you think they did not and if there is anything that could have been done differently that would have changed the outcome. If your results did support your hypothesis, explain what this means and the real life implications. In either case, discuss why further research on the topic should be done and why it is important to do so.
